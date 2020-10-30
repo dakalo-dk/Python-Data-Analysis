@@ -1,5 +1,11 @@
-Steps to follow when doing data analysis with Pandas
-Assumption: 1. Data is fairly clean. 2. You either have all the questions you want to answer (Explanatory data analysis) or you have an idea which you want to see from data (Exploratory Data Analysis) 
+Steps to follow when doing data analysis with Python Pandas Library
+
+Assumption: 
+1. Data is fairly clean. 
+2. You either have all the questions you want to answer (Explanatory data analysis) or you have an idea which you want to see from data (Exploratory Data Analysis) 
+3. You already have data infront of you and you are ready to analyse
+
+Steps:
 
 1. Import all required libraries
 2. Read the file
