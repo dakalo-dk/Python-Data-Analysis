@@ -1,0 +1,18 @@
+# Python-Data-Analysis
+In this folder I show how I analyse data with Python Pandas Library
+
+Assumptions: 
+1. Data is fairly clean. 
+2. You either have all the questions you want to answer (Explanatory data analysis) or you have an idea which you want to see from data (Exploratory Data Analysis)
+3. You already have data infront of you and you are ready to analyse
+
+Steps
+1. Import all required libraries
+2. Read the file
+3. Get a glimpse into how your data looks by doing df.head() or df.tail()
+4. Check for null values and decide what to do with it. e.g. Remove null values or you perform some calculations
+5. Check for duplicates
+6. Show summary statistics
+7. Show correlation of your dataset
+8. Show distribution of your dataset
+9. Answer all questions you have
